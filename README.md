@@ -27,6 +27,19 @@ flutter pub get
 
 flutter run
 
+## Dependencies
+This app uses the following dependencies:
+
+- `shared_preferences`: For saving data between sessions
+- `cupertino_icons`: For using icons in the Cupertino-style buttons
+
+## Features
+This app allows you to:
+
+- Start and end a counting session
+- Increment the count
+- Reset the count
+- Save the count and session state between sessions
 
 ## Screenshots
 
