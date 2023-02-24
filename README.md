@@ -1,16 +1,37 @@
-# counter_app
+# Counter App
 
-A new Flutter project.
+A simple counter app built using Flutter that lets you track your progress.
+
+## Features
+
+- Start and end sessions to track progress
+- Increment and reset the counter
+- Persistent storage using shared preferences
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
+git clone https://github.com/your_username/counter_app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Navigate to the project directory
+
+cd counter_app
+
+3. Install dependencies
+
+flutter pub get
+
+4. Run the app
+
+flutter run
+
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png) ![Screenshot 2](screenshots/screenshot2.png)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
